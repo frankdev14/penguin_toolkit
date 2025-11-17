@@ -174,6 +174,8 @@ ___
 9 - Setup all web pages and login into all your accounts.
 10 - Put my ".zshrc" config file into your home directory and open it. Install all zsh plugins that you dont have in my zsh config and restart the shell.
 11 - Dont forget configure your system like displays, language, etc.
+12 - Disable sysctl kernel mitigations for a high performance gaming.
+13 - Install gamescope and check if you have installed falcond from Pika OS.s
 ~~~
 
 ## With that, my Fedora is ready for everyday use! Now I can customize KDE and make it my own!
