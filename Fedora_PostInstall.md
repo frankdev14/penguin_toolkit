@@ -178,4 +178,9 @@ ___
 13 - Install gamescope and check if you have installed falcond from Pika OS.s
 ~~~
 
+Also fedora post installs:
+
+https://github.com/devangshekhawat/Fedora-43-Post-Install-Guide
+
+https://github.com/erik1066/fedora-setup-guide
 ## With that, my Fedora is ready for everyday use! Now I can customize KDE and make it my own!
