@@ -8,6 +8,9 @@ A quick guide to quickly set up a GNU/Linux environment from scratch, with dotfi
 - [KDE Setup](./KDE_Setup.md)
 - Dotfiles used in my installation
 
+***Actually Im migrating to Workstation cause KDE give me a lot of crashes***
+
+
 ### Use and config
 - Dotfiles are located in the `dotfiles/` directory. You should leave them in their respective user folders.
 - Customize `.gitconfig` and `.zshrc` according to your preferences.
