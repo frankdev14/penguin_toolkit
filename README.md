@@ -2,8 +2,6 @@
 
 A quick guide to quickly set up a GNU/Linux environment from scratch, with dotfiles and scripts to facilitate installation and customization.
 
-New testing of ssh
-
 ## Contenido / Content
 - Post-Install [Fedora](./Fedora_PostInstall.md)
 - [KDE Setup](./KDE_Setup.md)
