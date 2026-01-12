@@ -3,7 +3,7 @@
 A quick guide to quickly set up a GNU/Linux environment from scratch, with dotfiles and scripts to facilitate installation and customization.
 
 *** Faced with a big decision, I have decided that I am going to update this repository based on my new environment with Gnome.***
-teste
+
 ## Contenido / Content
 - Post-Install [Fedora](./Fedora_PostInstall.md)
 - [KDE Setup](./KDE_Setup.md)
